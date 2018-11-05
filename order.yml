@@ -9,5 +9,5 @@ spring:
   jpa:
     show-sql: true
 env:
-   test2
+  test2
 
