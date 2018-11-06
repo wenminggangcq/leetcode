@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: adminwinter
-    url: jdbc:mysql://127.0.0.1/product?characterEncoding=utf-8&useSSL=false
+    url: jdbc:mysql://127.0.0.1/produ.ct?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
 env:
