@@ -5,13 +5,13 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: adminwinter
-    url: jdbc:mysql://127.0.0.1/product?characterEncoding=utf-8&useSSL=false
+    url: jdbc:mysql://127.0.0.1/p.roduct?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
 eureka:
   client:
     service-url:
-      :defaultZone: http://localhost:8761/eureka/
+      defaultZone: http://localhost:8761/eureka/
 env:
   test
 #lable:
