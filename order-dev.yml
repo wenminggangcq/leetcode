@@ -10,3 +10,6 @@ spring:
     show-sql: true
 env: 
   test8
+girl:
+  name: winter
+  age: 22
